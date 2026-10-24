@@ -1,0 +1,15 @@
+{
+	"name": "MayankADFDemo2323",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b71e6539-3e28-452e-bf9f-71af74404c55",
+		"tenantId": "6193c0bb-ef42-4bbc-a00a-a573e84a063f"
+	}
+}
